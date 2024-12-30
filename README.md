@@ -1,4 +1,4 @@
-# JavaScript embedded effects compiler
+ # JavaScript embedded effects compiler
 
 [![Build Status](https://dev.azure.com/effectful/js/_apis/build/status/awto.effectfuljs?branchName=main)](https://dev.azure.com/effectful/js/_build/latest?definitionId=1&branchName=main)
 
