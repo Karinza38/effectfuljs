@@ -50,7 +50,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "@babel/core": "^7.26.0",
+    "@babel/core": "^7.26.10",
     "@babel/generator": "^7.26.2",
     "@babel/parser": "^7.26.2",
     "@babel/plugin-proposal-decorators": "^7.25.9",
@@ -81,7 +81,7 @@
     "@babel/preset-typescript": "^7.26.0",
     "@babel/register": "^7.25.9",
     "@effectful/core": "workspace:^",
-    "@effectful/serialization": "workspace:^",
+    "@effectful/serialization": "0.0.0",
     "@vscode/debugprotocol": "^1.68.0",
     "asap": "^2.0.6",
     "babel-plugin-dynamic-import-node": "^2.3.3",
