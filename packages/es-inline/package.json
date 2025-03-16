@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@effectful/core": "workspace:^",
-    "@effectful/es": "workspace:^"
+    "@effectful/es": "0.0.1"
   },
   "publishConfig": {
     "access": "public"
