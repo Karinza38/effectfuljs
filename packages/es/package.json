@@ -44,8 +44,8 @@
     "test262-parser": "^2.2.0"
   },
   "dependencies": {
-    "@babel/core": "^7.26.0",
-    "@effectful/core": "workspace:^"
+    "@babel/core": "^7.26.10",
+    "@effectful/core": "0.1.1"
   },
   "publishConfig": {
     "access": "public"
