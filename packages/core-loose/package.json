@@ -37,8 +37,8 @@
   "dependencies": {
     "@babel/generator": "^7.26.2",
     "@babel/types": "^7.26.0",
-    "@effectful/es-rt": "workspace:^",
-    "@effectful/transducers-loose": "workspace:^",
+    "@effectful/es-rt": "0.0.1",
+    "@effectful/transducers-loose": "0.0.9",
     "resolve": "^1.22.8"
   },
   "publishConfig": {
