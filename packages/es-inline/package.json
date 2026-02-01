@@ -32,8 +32,8 @@
     "test262-parser": "^2.2.0"
   },
   "dependencies": {
-    "@effectful/core": "workspace:^",
-    "@effectful/es": "workspace:^"
+    "@effectful/core": "0.1.1",
+    "@effectful/es": "0.0.1"
   },
   "publishConfig": {
     "access": "public"
