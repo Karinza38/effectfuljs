@@ -22,7 +22,7 @@
   "dependencies": {
     "@babel/generator": "^7.26.2",
     "@babel/types": "^7.26.0",
-    "@effectful/transducers": "workspace:^"
+    "@effectful/transducers": "0.0.11"
   },
   "devDependencies": {
     "@babel/cli": "^7.25.9",
